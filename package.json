@@ -1,0 +1,12 @@
+{
+  "name": "tw",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+     "build-css": "tailwindcss -i ./src/input.css -o ./src/output.css "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
